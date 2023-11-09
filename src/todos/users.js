@@ -5,7 +5,7 @@ const users = [
     { name: "Serly", age: 29, major: "Web"},
 ]
 
-export default users
+export default users;
 // TODO - 1
 // Export lah variabel users
 // Gunakan export default
