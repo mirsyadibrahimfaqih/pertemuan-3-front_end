@@ -34,7 +34,7 @@ const formatUser = async (dataUsers) => {
         console.error('Terjadi Kesalahan:', error.message);
     }
 }
-formatUser()
+formatUser(users)
     
 
 // TODO - 4
